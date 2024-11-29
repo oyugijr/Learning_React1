@@ -1,0 +1,31 @@
+.profile-card {
+    border: 1px solid rgb(144, 199, 248);
+    background-color: rgb(144, 199, 248);
+    color: #222;
+    border-radius: 8px;
+    padding: 10px;
+    width: 500px;
+    box-shadow: 0 0 8px #1099e3;
+    text-align: center;
+    margin: 16px;
+  }
+  .profile-card:hover{
+    transform: translateY(30px);
+  }
+  .profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 16px;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  p {
+    margin: 8px 0;
+  }
+  
