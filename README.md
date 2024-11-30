@@ -29,7 +29,7 @@ WEEK 2
 . React Project - Dark mode & Light mode with Context API
 
 
-ADVANCED REACT
+<!-- ADVANCED REACT
 WEEK 3
 -------------------------------------------------------------
 . Data Handling(Consuming APIs - Axios)
@@ -42,4 +42,4 @@ WEEK 3
 . React Project
 
 . React Testing Library
-. React Project
+. React Project -->
