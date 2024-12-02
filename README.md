@@ -1,4 +1,4 @@
-BASICS OF REACT
+<!-- BASICS OF REACT
 WEEK 1
 ---------------------------------------------------  
 . React Roadmap & Create react projects
@@ -42,4 +42,4 @@ WEEK 3
 . React Project
 
 . React Testing Library
-. React Project -->
+. React Project --> -->
